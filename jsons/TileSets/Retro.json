@@ -2,8 +2,6 @@
     "useColorAsBaseTerrain": "false",
     "fallbackTileSet": "Minimal",
 	"tileScales": {
-		"Mine":0.5,
-		"Farm":0.75
     "ruleVariants": {
 
         //forest and jungle
