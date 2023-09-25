@@ -1,9 +1,0 @@
-{
-    "useColorAsBaseTerrain": "true",
-    "useSummaryImages": "false",
-    "fallbackTileSet": Minimal,
-    "tileScales": {
-	"Mine":0.5,
-	"Farm":0.75
-    }
-}
