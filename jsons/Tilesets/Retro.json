@@ -1,0 +1,22 @@
+{
+    "useColorAsBaseTerrain": "true",
+    "useSummaryImages": "true",
+    "fallbackTileSet": Minimal,
+    "tileScales": {
+        "Atoll":1,
+        "City center":1,
+        "Fallout":1,
+        "Flood plains":1,
+        "Forest":1,
+        "Hill":1,
+        "Ice":1,
+        "Jungle":1,
+        "Lakes":1,
+        "Marsh":1,
+        "Mountain":1,
+        "NaturalWonder":1,
+        "Oasis":1,
+	"Mine":0.5,
+	"Farm":0.75
+    }
+}
