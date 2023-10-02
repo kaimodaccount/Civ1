@@ -459,13 +459,6 @@ TileSets/civ1/Tiles/Farm
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/civ1/Tiles/Pasture
-  rotate: false
-  xy: 1052, 236
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
 TileSets/civ1/Tiles/Plantation
   rotate: false
   xy: 1052, 236
@@ -474,13 +467,6 @@ TileSets/civ1/Tiles/Plantation
   offset: 0, 0
   index: -1
 TileSets/civ1/Tiles/Polder
-  rotate: false
-  xy: 1052, 236
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/civ1/Tiles/Terrace farm
   rotate: false
   xy: 1052, 236
   size: 64, 56
@@ -697,58 +683,72 @@ TileSets/civ1/Tiles/Oil
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/civ1/Tiles/Plains
+TileSets/civ1/Tiles/Pasture
   rotate: false
   xy: 721, 172
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/civ1/Tiles/River-Bottom
+TileSets/civ1/Tiles/Plains
   rotate: false
   xy: 649, 44
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/civ1/Tiles/River-BottomLeft
+TileSets/civ1/Tiles/River-Bottom
   rotate: false
   xy: 721, 108
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/civ1/Tiles/River-BottomRight
+TileSets/civ1/Tiles/River-BottomLeft
   rotate: false
   xy: 793, 172
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/civ1/Tiles/Silver
+TileSets/civ1/Tiles/River-BottomRight
   rotate: false
   xy: 721, 44
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/civ1/Tiles/Stone
+TileSets/civ1/Tiles/Silver
   rotate: false
   xy: 793, 108
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/civ1/Tiles/Tundra
+TileSets/civ1/Tiles/Stone
+  rotate: false
+  xy: 865, 172
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/civ1/Tiles/Terrace farm
   rotate: false
   xy: 793, 44
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/civ1/Tiles/Tundra
+  rotate: false
+  xy: 937, 172
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 TileSets/civ1/TopBorder
   rotate: false
-  xy: 865, 172
+  xy: 865, 108
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -790,35 +790,35 @@ TileSets/civ1/Units/War Elephant
   index: -1
 TileSets/civ1/Units/African Forest Elephant.png
   rotate: false
-  xy: 865, 119
+  xy: 865, 55
   size: 44, 45
   orig: 44, 45
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Chariot Archer.png
   rotate: false
-  xy: 865, 119
+  xy: 865, 55
   size: 44, 45
   orig: 44, 45
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Naresuan's Elephant.png
   rotate: false
-  xy: 865, 119
+  xy: 865, 55
   size: 44, 45
   orig: 44, 45
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/War Chariot.png
   rotate: false
-  xy: 865, 119
+  xy: 865, 55
   size: 44, 45
   orig: 44, 45
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/War Elephant.png
   rotate: false
-  xy: 865, 119
+  xy: 865, 55
   size: 44, 45
   orig: 44, 45
   offset: 0, 0
@@ -986,84 +986,84 @@ TileSets/civ1/Units/Warrior
   index: -1
 TileSets/civ1/Units/Archer.png
   rotate: false
-  xy: 937, 181
+  xy: 937, 117
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Atlatlist.png
   rotate: false
-  xy: 937, 181
+  xy: 937, 117
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Berserker.png
   rotate: false
-  xy: 937, 181
+  xy: 937, 117
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Bowman.png
   rotate: false
-  xy: 937, 181
+  xy: 937, 117
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Brute.png
   rotate: false
-  xy: 937, 181
+  xy: 937, 117
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Inquisitor.png
   rotate: false
-  xy: 937, 181
+  xy: 937, 117
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Jaguar.png
   rotate: false
-  xy: 937, 181
+  xy: 937, 117
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/LandUnit.png
   rotate: false
-  xy: 937, 181
+  xy: 937, 117
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Maori Warrior.png
   rotate: false
-  xy: 937, 181
+  xy: 937, 117
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Mohawk Warrior.png
   rotate: false
-  xy: 937, 181
+  xy: 937, 117
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Slinger.png
   rotate: false
-  xy: 937, 181
+  xy: 937, 117
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Warrior.png
   rotate: false
-  xy: 937, 181
+  xy: 937, 117
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
@@ -1238,35 +1238,35 @@ TileSets/civ1/Units/Trebuchet
   index: -1
 TileSets/civ1/Units/Ballista.png
   rotate: false
-  xy: 865, 66
+  xy: 1009, 183
   size: 44, 45
   orig: 44, 45
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Battering Ram.png
   rotate: false
-  xy: 865, 66
+  xy: 1009, 183
   size: 44, 45
   orig: 44, 45
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Catapult.png
   rotate: false
-  xy: 865, 66
+  xy: 1009, 183
   size: 44, 45
   orig: 44, 45
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Hwach'a.png
   rotate: false
-  xy: 865, 66
+  xy: 1009, 183
   size: 44, 45
   orig: 44, 45
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Trebuchet.png
   rotate: false
-  xy: 865, 66
+  xy: 1009, 183
   size: 44, 45
   orig: 44, 45
   offset: 0, 0
@@ -1308,21 +1308,21 @@ TileSets/civ1/Units/Great Merchant-Modern era
   index: -1
 TileSets/civ1/Units/Camel Archer.png
   rotate: false
-  xy: 989, 181
+  xy: 1061, 181
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Great Merchant-Modern era.png
   rotate: false
-  xy: 989, 181
+  xy: 1061, 181
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Great Merchant.png
   rotate: false
-  xy: 989, 181
+  xy: 1061, 181
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
@@ -1364,35 +1364,35 @@ TileSets/civ1/Units/Galleass
   index: -1
 TileSets/civ1/Units/Caravel.png
   rotate: false
-  xy: 1041, 183
+  xy: 1113, 183
   size: 44, 45
   orig: 44, 45
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/EmbarkedUnit-Civilian-Renaissance era.png
   rotate: false
-  xy: 1041, 183
+  xy: 1113, 183
   size: 44, 45
   orig: 44, 45
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/EmbarkedUnit-Military-Renaissance era.png
   rotate: false
-  xy: 1041, 183
+  xy: 1113, 183
   size: 44, 45
   orig: 44, 45
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/EmbarkedUnit-Settler-Renaissance era.png
   rotate: false
-  xy: 1041, 183
+  xy: 1113, 183
   size: 44, 45
   orig: 44, 45
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Galleass.png
   rotate: false
-  xy: 1041, 183
+  xy: 1113, 183
   size: 44, 45
   orig: 44, 45
   offset: 0, 0
@@ -1434,35 +1434,35 @@ TileSets/civ1/Units/Musketman
   index: -1
 TileSets/civ1/Units/Carolean.png
   rotate: false
-  xy: 1717, 177
+  xy: 1789, 177
   size: 35, 51
   orig: 35, 51
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Janissary.png
   rotate: false
-  xy: 1717, 177
+  xy: 1789, 177
   size: 35, 51
   orig: 35, 51
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Minuteman.png
   rotate: false
-  xy: 1717, 177
+  xy: 1789, 177
   size: 35, 51
   orig: 35, 51
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Musketeer.png
   rotate: false
-  xy: 1717, 177
+  xy: 1789, 177
   size: 35, 51
   orig: 35, 51
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Musketman.png
   rotate: false
-  xy: 1717, 177
+  xy: 1789, 177
   size: 35, 51
   orig: 35, 51
   offset: 0, 0
@@ -1560,63 +1560,63 @@ TileSets/civ1/Units/Sipahi
   index: -1
 TileSets/civ1/Units/Cataphract.png
   rotate: false
-  xy: 1093, 187
+  xy: 1165, 187
   size: 44, 41
   orig: 44, 41
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Companion Cavalry.png
   rotate: false
-  xy: 1093, 187
+  xy: 1165, 187
   size: 44, 41
   orig: 44, 41
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Hakkapeliitta.png
   rotate: false
-  xy: 1093, 187
+  xy: 1165, 187
   size: 44, 41
   orig: 44, 41
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Keshik.png
   rotate: false
-  xy: 1093, 187
+  xy: 1165, 187
   size: 44, 41
   orig: 44, 41
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Khan.png
   rotate: false
-  xy: 1093, 187
+  xy: 1165, 187
   size: 44, 41
   orig: 44, 41
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Knight.png
   rotate: false
-  xy: 1093, 187
+  xy: 1165, 187
   size: 44, 41
   orig: 44, 41
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Lancer.png
   rotate: false
-  xy: 1093, 187
+  xy: 1165, 187
   size: 44, 41
   orig: 44, 41
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Mandekalu Cavalry.png
   rotate: false
-  xy: 1093, 187
+  xy: 1165, 187
   size: 44, 41
   orig: 44, 41
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Sipahi.png
   rotate: false
-  xy: 1093, 187
+  xy: 1165, 187
   size: 44, 41
   orig: 44, 41
   offset: 0, 0
@@ -1672,49 +1672,49 @@ TileSets/civ1/Units/Scout
   index: -1
 TileSets/civ1/Units/Cavalry.png
   rotate: false
-  xy: 1145, 181
+  xy: 1217, 181
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Conquistador.png
   rotate: false
-  xy: 1145, 181
+  xy: 1217, 181
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Cossack.png
   rotate: false
-  xy: 1145, 181
+  xy: 1217, 181
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Horse Archer.png
   rotate: false
-  xy: 1145, 181
+  xy: 1217, 181
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Horseman.png
   rotate: false
-  xy: 1145, 181
+  xy: 1217, 181
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Hussar.png
   rotate: false
-  xy: 1145, 181
+  xy: 1217, 181
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Scout.png
   rotate: false
-  xy: 1145, 181
+  xy: 1217, 181
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
@@ -1777,56 +1777,56 @@ TileSets/civ1/Units/Tercio
   index: -1
 TileSets/civ1/Units/Chu-Ko-Nu.png
   rotate: false
-  xy: 1197, 173
+  xy: 1269, 173
   size: 44, 55
   orig: 44, 55
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Hoplite.png
   rotate: false
-  xy: 1197, 173
+  xy: 1269, 173
   size: 44, 55
   orig: 44, 55
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Landsknecht.png
   rotate: false
-  xy: 1197, 173
+  xy: 1269, 173
   size: 44, 55
   orig: 44, 55
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Marauder.png
   rotate: false
-  xy: 1197, 173
+  xy: 1269, 173
   size: 44, 55
   orig: 44, 55
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Persian Immortal.png
   rotate: false
-  xy: 1197, 173
+  xy: 1269, 173
   size: 44, 55
   orig: 44, 55
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Pikeman.png
   rotate: false
-  xy: 1197, 173
+  xy: 1269, 173
   size: 44, 55
   orig: 44, 55
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Spearman.png
   rotate: false
-  xy: 1197, 173
+  xy: 1269, 173
   size: 44, 55
   orig: 44, 55
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Tercio.png
   rotate: false
-  xy: 1197, 173
+  xy: 1269, 173
   size: 44, 55
   orig: 44, 55
   offset: 0, 0
@@ -1868,35 +1868,35 @@ TileSets/civ1/Units/Worker-Modern era
   index: -1
 TileSets/civ1/Units/CivilianLandUnit.png
   rotate: false
-  xy: 1249, 181
+  xy: 1321, 181
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Settler-Modern era.png
   rotate: false
-  xy: 1249, 181
+  xy: 1321, 181
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Settler.png
   rotate: false
-  xy: 1249, 181
+  xy: 1321, 181
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Worker-Modern era.png
   rotate: false
-  xy: 1249, 181
+  xy: 1321, 181
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Worker.png
   rotate: false
-  xy: 1249, 181
+  xy: 1321, 181
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
@@ -1973,70 +1973,70 @@ TileSets/civ1/Units/Swordsman
   index: -1
 TileSets/civ1/Units/Composite Bowman.png
   rotate: false
-  xy: 1301, 181
+  xy: 1373, 181
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Crossbowman.png
   rotate: false
-  xy: 1301, 181
+  xy: 1373, 181
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Great General.png
   rotate: false
-  xy: 1301, 181
+  xy: 1373, 181
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Legion.png
   rotate: false
-  xy: 1301, 181
+  xy: 1373, 181
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Longbowman.png
   rotate: false
-  xy: 1301, 181
+  xy: 1373, 181
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Longswordsman.png
   rotate: false
-  xy: 1301, 181
+  xy: 1373, 181
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Pictish Warrior.png
   rotate: false
-  xy: 1301, 181
+  xy: 1373, 181
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Samurai.png
   rotate: false
-  xy: 1301, 181
+  xy: 1373, 181
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Skirmisher.png
   rotate: false
-  xy: 1301, 181
+  xy: 1373, 181
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Swordsman.png
   rotate: false
-  xy: 1301, 181
+  xy: 1373, 181
   size: 44, 47
   orig: 44, 47
   offset: 0, 0
@@ -2127,56 +2127,56 @@ TileSets/civ1/Units/Work Boats
   index: -1
 TileSets/civ1/Units/Dromon.png
   rotate: false
-  xy: 1353, 193
+  xy: 1425, 193
   size: 44, 35
   orig: 44, 35
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/EmbarkedUnit-Civilian.png
   rotate: false
-  xy: 1353, 193
+  xy: 1425, 193
   size: 44, 35
   orig: 44, 35
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/EmbarkedUnit-Military.png
   rotate: false
-  xy: 1353, 193
+  xy: 1425, 193
   size: 44, 35
   orig: 44, 35
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/EmbarkedUnit-Settler.png
   rotate: false
-  xy: 1353, 193
+  xy: 1425, 193
   size: 44, 35
   orig: 44, 35
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Galley.png
   rotate: false
-  xy: 1353, 193
+  xy: 1425, 193
   size: 44, 35
   orig: 44, 35
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Quinquereme.png
   rotate: false
-  xy: 1353, 193
+  xy: 1425, 193
   size: 44, 35
   orig: 44, 35
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Trireme.png
   rotate: false
-  xy: 1353, 193
+  xy: 1425, 193
   size: 44, 35
   orig: 44, 35
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Work Boats.png
   rotate: false
-  xy: 1353, 193
+  xy: 1425, 193
   size: 44, 35
   orig: 44, 35
   offset: 0, 0
@@ -2330,56 +2330,56 @@ TileSets/civ1/Units/Rifleman
   index: -1
 TileSets/civ1/Units/Foreign Legion.png
   rotate: false
-  xy: 1405, 173
+  xy: 1477, 173
   size: 44, 55
   orig: 44, 55
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Great War Infantry.png
   rotate: false
-  xy: 1405, 173
+  xy: 1477, 173
   size: 44, 55
   orig: 44, 55
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Infantry.png
   rotate: false
-  xy: 1405, 173
+  xy: 1477, 173
   size: 44, 55
   orig: 44, 55
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Marine.png
   rotate: false
-  xy: 1405, 173
+  xy: 1477, 173
   size: 44, 55
   orig: 44, 55
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Mehal Sefari.png
   rotate: false
-  xy: 1405, 173
+  xy: 1477, 173
   size: 44, 55
   orig: 44, 55
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Norwegian Ski Infantry.png
   rotate: false
-  xy: 1405, 173
+  xy: 1477, 173
   size: 44, 55
   orig: 44, 55
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Paratrooper.png
   rotate: false
-  xy: 1405, 173
+  xy: 1477, 173
   size: 44, 55
   orig: 44, 55
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Rifleman.png
   rotate: false
-  xy: 1405, 173
+  xy: 1477, 173
   size: 44, 55
   orig: 44, 55
   offset: 0, 0
@@ -2414,28 +2414,28 @@ TileSets/civ1/Units/Ship of the Line
   index: -1
 TileSets/civ1/Units/Frigate.png
   rotate: false
-  xy: 1457, 187
+  xy: 1529, 187
   size: 44, 41
   orig: 44, 41
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Privateer.png
   rotate: false
-  xy: 1457, 187
+  xy: 1529, 187
   size: 44, 41
   orig: 44, 41
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Sea Beggar.png
   rotate: false
-  xy: 1457, 187
+  xy: 1529, 187
   size: 44, 41
   orig: 44, 41
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Ship of the Line.png
   rotate: false
-  xy: 1457, 187
+  xy: 1529, 187
   size: 44, 41
   orig: 44, 41
   offset: 0, 0
@@ -2533,56 +2533,56 @@ TileSets/civ1/Units/Missionary
   index: -1
 TileSets/civ1/Units/Great Artist-Modern era.png
   rotate: false
-  xy: 865, 4
+  xy: 1832, 174
   size: 30, 54
   orig: 30, 54
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Great Artist.png
   rotate: false
-  xy: 865, 4
+  xy: 1832, 174
   size: 30, 54
   orig: 30, 54
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Great Engineer-Modern era.png
   rotate: false
-  xy: 865, 4
+  xy: 1832, 174
   size: 30, 54
   orig: 30, 54
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Great Engineer.png
   rotate: false
-  xy: 865, 4
+  xy: 1832, 174
   size: 30, 54
   orig: 30, 54
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Great Prophet.png
   rotate: false
-  xy: 865, 4
+  xy: 1832, 174
   size: 30, 54
   orig: 30, 54
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Great Scientist-Modern era.png
   rotate: false
-  xy: 865, 4
+  xy: 1832, 174
   size: 30, 54
   orig: 30, 54
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Great Scientist.png
   rotate: false
-  xy: 865, 4
+  xy: 1832, 174
   size: 30, 54
   orig: 30, 54
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Missionary.png
   rotate: false
-  xy: 865, 4
+  xy: 1832, 174
   size: 30, 54
   orig: 30, 54
   offset: 0, 0
@@ -2610,28 +2610,28 @@ TileSets/civ1/Units/Mechanized Infantry
   index: -1
 TileSets/civ1/Units/Great General-Modern era.png
   rotate: false
-  xy: 1509, 193
+  xy: 1581, 193
   size: 44, 35
   orig: 44, 35
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Khan-Modern era.png
   rotate: false
-  xy: 1509, 193
+  xy: 1581, 193
   size: 44, 35
   orig: 44, 35
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Mechanized Infantry.png
   rotate: false
-  xy: 1509, 193
+  xy: 1581, 193
   size: 44, 35
   orig: 44, 35
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Helicopter Gunship.png
   rotate: false
-  xy: 1561, 187
+  xy: 1633, 187
   size: 44, 41
   orig: 44, 41
   offset: 0, 0
@@ -2652,42 +2652,42 @@ TileSets/civ1/Units/Turtle Ship
   index: -1
 TileSets/civ1/Units/Ironclad.png
   rotate: false
-  xy: 1613, 193
+  xy: 1685, 193
   size: 44, 35
   orig: 44, 35
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Turtle Ship.png
   rotate: false
-  xy: 1613, 193
+  xy: 1685, 193
   size: 44, 35
   orig: 44, 35
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Landship.png
   rotate: false
-  xy: 1665, 187
+  xy: 1737, 187
   size: 44, 41
   orig: 44, 41
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Modern Armor.png
   rotate: false
-  xy: 1665, 187
+  xy: 1737, 187
   size: 44, 41
   orig: 44, 41
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Panzer.png
   rotate: false
-  xy: 1665, 187
+  xy: 1737, 187
   size: 44, 41
   orig: 44, 41
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Tank.png
   rotate: false
-  xy: 1665, 187
+  xy: 1737, 187
   size: 44, 41
   orig: 44, 41
   offset: 0, 0
@@ -2708,42 +2708,42 @@ TileSets/civ1/Units/Submarine
   index: -1
 TileSets/civ1/Units/Nuclear Submarine.png
   rotate: false
-  xy: 1353, 163
+  xy: 1425, 163
   size: 44, 22
   orig: 44, 22
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/Submarine.png
   rotate: false
-  xy: 1353, 163
+  xy: 1425, 163
   size: 44, 22
   orig: 44, 22
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/SS Booster.png
   rotate: false
-  xy: 903, 4
+  xy: 1870, 174
   size: 30, 54
   orig: 30, 54
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/SS Cockpit.png
   rotate: false
-  xy: 903, 4
+  xy: 1870, 174
   size: 30, 54
   orig: 30, 54
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/SS Engine.png
   rotate: false
-  xy: 903, 4
+  xy: 1870, 174
   size: 30, 54
   orig: 30, 54
   offset: 0, 0
   index: -1
 TileSets/civ1/Units/SS Stasis Chamber.png
   rotate: false
-  xy: 903, 4
+  xy: 1870, 174
   size: 30, 54
   orig: 30, 54
   offset: 0, 0
